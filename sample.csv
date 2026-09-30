@@ -1,0 +1,5 @@
+kind,category,amount,date,note
+income,Allowance,6000.00,2026-01-01,Synthetic allowance
+expense,Food,150.25,2026-01-02,"Lunch, snack"
+expense,Transport,60.00,2026-01-02,Demo commute
+expense,School,250.00,2026-01-03,Demo materials

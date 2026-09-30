@@ -1,0 +1,12 @@
+{
+  "name": "pesolens-analytics",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Optional end-to-end verification; Python application requires no npm dependencies.",
+  "scripts": {
+    "test:browser": "node browser.test.cjs"
+  },
+  "devDependencies": {
+    "playwright": "1.62.1"
+  }
+}

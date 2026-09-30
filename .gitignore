@@ -1,0 +1,9 @@
+data/
+demo-data/
+*.db
+*.db-*
+__pycache__/
+*.py[cod]
+.venv/
+node_modules/
+artifacts/
